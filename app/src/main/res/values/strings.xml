@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Shopper Test</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="must_select_one">Please select an item.</string>
+    <string name="time_expired">Time expired!!!</string>
+    <string name="begin_quiz">To begin the quick click the bottom below.</string>
+    <string name="two_minute_warning">The quiz must be completed in 2 minutes.</string>
+    <string name="welcome">Welcome</string>
+    <string name="done">Done!</string>
+    <string name="thanks_for_quiz">Thanks for taking out awesome quiz.</string>
+    <string name="quiz_result">You got %1$d out of %2$d questions!</string>
+    <string name="question_count">%1$d of %2$d</string>
+</resources>
